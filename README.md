@@ -1,6 +1,13 @@
 ## Olá! eu sou o João Vitor 👋
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jvitor98k&hide_progress=true)](https://github.com/Jvitor98k/github-readme-stats)
+
+[def]: https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor98k&langs_count=8
+
+
+![Jvitor98k GitHub stats](https://github-readme-stats.vercel.app/api?username=Jvitor98k&show_icons=true&theme=dark)
+
 ### Tecnologias que uso no meu dia a dia
 <div style="display: inline_block">
 <img align="center" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
